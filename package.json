@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "lodash": "^4.17.4",
+    "mocha": "^3.4.2",
+    "neo-async": "^2.2.2",
+    "power-assert": "^1.4.4"
+  },
+  "scripts": {
+    "test": "mocha test/*"
+  }
+}
